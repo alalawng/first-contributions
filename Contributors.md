@@ -34,6 +34,7 @@
 - [Mohammad Iqbal](https://github.com/iqmd)
 - [Zakria Mansur](https://github.com/zakria00)
 - [Elvis Osano](https://github.com/Elvis-Osano)
+- [Andrew Lalawng](https://github.com/alalawng)
 - [Ahmodiyy](https://github.com/Ahmodiyy)
 - [CYCNO](https://github.com/CYCNO)
 - [Carleii](https://github.com/carleii)
